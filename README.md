@@ -395,7 +395,7 @@ Inserted location events successfully
 
 **Kovvuri Harshitha**
 - Email: harshitahanisha@gmail.com
-- Github Url: 
+- Github Url: "https://github.com/HarshithaKovvuri17/Fleet-Location-Tracker.git"
 
 ---
 
